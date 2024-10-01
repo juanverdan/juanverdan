@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Olá 👋! Meu nome is Juan e atualmente sou um DevOps Junior.</h2>
+<h2 align="left">Olá 👋! Meu nome é Juan e atualmente sou um DevOps Junior.</h2>
 <h5>Atualmente, atuo como DevOps com experiência abrangente em redes, Zabbix, infraestrutura e cibersegurança. Sou certificado com o NSE2 e NSE3 pelo Fortinet e possuo uma formação em Engenharia da Computação. Tenho habilidades intermediárias em inglês, o que me permite colaborar em ambientes internacionais e entender documentação técnica com eficácia. Estou sempre em busca de aprimorar meus conhecimentos e habilidades, especialmente nas áreas de segurança e infraestrutura.</h5>
 
 
